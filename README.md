@@ -1,5 +1,5 @@
 ## NTU dnipro Calendar
-- Фронтенд частина веб застосунтку для NTU dnipro
+- Бекенд частина веб застосунтку для NTU dnipro
 - SoftServe Academy
 - Developed with Horizon team
   - Discord: https://discord.gg/your-invite
